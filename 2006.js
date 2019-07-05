@@ -1,11 +1,11 @@
-Template
-{
-    "name": "",
-    "class": "",
-    "state": "",
-    "occupation": "",
-    "dob": "",
-  },
+// Template
+// {
+//     "name": "",
+//     "class": "",
+//     "state": "",
+//     "occupation": "",
+//     "dob": "",
+//   },
 
 [
   {
