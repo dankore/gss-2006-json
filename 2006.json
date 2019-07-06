@@ -4,14 +4,16 @@
     "class": "JS1-3F, SS1-3A",
     "state": "Iowa, USA",
     "occupation": "Chemist, Founder & CEO https://homeawayfromhome.online",
-    "dob": "July 2"
+    "dob": "July 2",
+    "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
   },
   {
     "name": "Audu Nurudeen",
     "class": "SS1F, SS3E",
     "state": "Kubwa, Abuja",
     "occupation": "National Orientation Agency, Tax Consultant, Media personnel",
-    "dob": "December 14"
+    "dob": "December 14",
+    "photo" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
   },
   {
     "name": "Kalu A Victoria",
