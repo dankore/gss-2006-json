@@ -233,6 +233,55 @@
         "state": "Lagos",
         "occupation": "Customer Care Rep",
         "dob": "April 29"
+      },
+    {
+        "name": "Ayodele Lola",
+        "class": "SS3F",
+        "state": "Lagos",
+        "occupation": "",
+        "dob": "September 19"
+      },
+    {
+        "name": "Anthony Ugochukwu Okechukwu",
+        "class": "SS3B",
+        "state": "Karmo, Abuja",
+        "occupation": "Online News Media",
+        "dob": "February 10"
+      },
+    {
+        "name": "Adebayo Olorunpomi",
+        "class": "SS3C",
+        "state": "Aco Estate, Abuja",
+        "occupation": "Administrator, Binary Option Trader",
+        "dob": "October 10"
+      },
+    {
+        "name": "Hauwa Lawal",
+        "class": "SS3C",
+        "state": "Niger",
+        "occupation": "Business Owner",
+        "dob": "April 8"
+      },
+    {
+        "name": "Nwaoha Maureen",
+        "class": "SS3D",
+        "state": "Abuja",
+        "occupation": "Surveyor and Valuer",
+        "dob": "February 26"
+      },
+    {
+        "name": "Eke Justina",
+        "class": "SS3E",
+        "state": "Abuja",
+        "occupation": "",
+        "dob": "February 2"
+      },
+    {
+        "name": "Okolo Patience",
+        "class": "SS3E",
+        "state": "Lagos",
+        "occupation": "Customer Service Rep @ Tranex Nationwide Express PLC",
+        "dob": "June 8"
       }
-      ]
+    ]
 }
