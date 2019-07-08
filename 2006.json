@@ -282,6 +282,83 @@
         "state": "Lagos",
         "occupation": "Customer Service Rep @ Tranex Nationwide Express PLC",
         "dob": "June 8"
-      }
+      },
+    {
+        "name": "Christal Kyuka (Toge)",
+        "class": "SS3A",
+        "state": "Lugbe, Abuja",
+        "occupation": "Reseacher",
+        "dob": "September 13"
+      },
+    {
+        "name": "Nnamdi Okonkwo",
+        "class": "SS3A",
+        "state": "Abuja",
+        "occupation": "Public Health Professional/Freelancer",
+        "dob": "October 5"
+      },
+    {
+        "name": "Solomon Nnadozie",
+        "class": "SS3A",
+        "state": "Rivers",
+        "occupation": "Engineering",
+        "dob": "June 7"
+      },
+    {
+        "name": "Augustina Nwaokike",
+        "class": "SS3F",
+        "state": "Abuja",
+        "occupation": "Teacher",
+        "dob": "December 2"
+      },
+    {
+        "name": "Tolulope Fajuyi",
+        "class": "SS3F",
+        "state": "Lagos",
+        "occupation": "Engineer",
+        "dob": "July 22"
+      },
+    {
+        "name": "Uka Ernest",
+        "class": "SS3E",
+        "state": "Abuja",
+        "occupation": "",
+        "dob": "June 30"
+      },
+    {
+        "name": "Caleb Yakubu",
+        "class": "SS3C",
+        "state": "Kaduna",
+        "occupation": "Student",
+        "dob": "April 12"
+      },
+    {
+        "name": "Emeka Okoronkwo",
+        "class": "SS3A",
+        "state": "Abuja",
+        "occupation": "Chemist, Musician, Fashion Designer, and Educational Consultant",
+        "dob": "February 26"
+      },
+    {
+        "name": "Ascents Hope Isaac",
+        "class": "SS3A",
+        "state": "Abuja",
+        "occupation": "Arts Designer/Brand Strategist",
+        "dob": "May 27"
+      },
+    {
+        "name": "Ali Ismaila Gbatigbi",
+        "class": "SS3A",
+        "state": "Abuja",
+        "occupation": "Farmer/Agric Engineer",
+        "dob": "June 28"
+      },
+    {
+        "name": "Chima David (BBC)",
+        "class": "SS3F",
+        "state": "Kubwa, Abuja",
+        "occupation": "Fashion Designer",
+        "dob": "September 12"
+      },
     ]
 }
