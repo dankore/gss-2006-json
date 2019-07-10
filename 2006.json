@@ -359,6 +359,118 @@
         "state": "Kubwa, Abuja",
         "occupation": "Fashion Designer",
         "dob": "September 12"
+      },
+    {
+        "name": "Ejeh Matthew Thomson",
+        "class": "SS3A",
+        "state": "Abuja",
+        "occupation": "",
+        "dob": "November 8"
+      },
+    {
+        "name": "Williams David",
+        "class": "SS3C",
+        "state": "Portharcourt",
+        "occupation": "Business",
+        "dob": "January 10"
+      },
+    {
+        "name": "Kamojor Onwenwuzor",
+        "class": "SS3C",
+        "state": "Abuja",
+        "occupation": "",
+        "dob": "May 6"
+      },
+    {
+        "name": "Chukwu Christian",
+        "class": "SS3A",
+        "state": "Abuja",
+        "occupation": "Cement Merchant",
+        "dob": "December 21"
+      },
+      {
+        "name": "Chukwuemeka Christian Ejike",
+        "class": "SS3A",
+        "state": "Abuja/Calabar",
+        "occupation": "",
+        "dob": "September 7"
+      },
+    {
+        "name": "Ayotebi Babatunde",
+        "class": "SS3B",
+        "state": "Abuja",
+        "occupation": "Environmental Microbiologist/Student",
+        "dob": "March 31"
+      },
+    {
+        "name": "Mercy Chukwu",
+        "class": "SS3B",
+        "state": "Abuja",
+        "occupation": "Secretary @ Prime Care Hospital/ Actress",
+        "dob": "September 17"
+      },
+    {
+        "name": "Esther Abiodun",
+        "class": "SS3E",
+        "state": "Kaduna",
+        "occupation": "",
+        "dob": "December 10"
+      },
+    {
+        "name": "Haruna Waziri Muhammad",
+        "class": "SS1A",
+        "state": "Karmo, Abuja",
+        "occupation": "Aquaculture practitioner, Politician and Security",
+        "dob": ""
+      },
+    {
+        "name": "Osakwe Norbert",
+        "class": "SS3C",
+        "state": "Yenagoa, Bayelsa",
+        "occupation": "Banker",
+        "dob": "June 13"
+      },
+      {
+        "name": "Joy Use",
+        "class": "SS3F",
+        "state": "Abuja",
+        "occupation": "Civil Servant",
+        "dob": "June 15"
+      },
+    {
+        "name": "Onaji Jane",
+        "class": "SS3C",
+        "state": "",
+        "occupation": "Self Employed",
+        "dob": "June 15"
+      },
+    {
+        "name": "Rufai Jibrin Ahmed",
+        "class": "SS3F & E",
+        "state": "Life Camp, Abuja",
+        "occupation": "Unemployed",
+        "dob": "August 17"
+      },    
+    {
+        "name": "Mercy Ochigbo",
+        "class": "SS3F & E",
+        "state": "Abuja",
+        "occupation": "Monitoring and Evaluation",
+        "dob": "May 6"
+      },  
+    {
+        "name": "Yau Hassan",
+        "class": "SS3D",
+        "state": "Abuja",
+        "occupation": "Business",
+        "dob": "September 18"
+      },  
+     {
+        "name": "Nnadozie Ekwuribe",
+        "class": "SS3A",
+        "state": "Abuja",
+        "occupation": "Graphic Artist | Web Designer| Digital Marketer",
+        "dob": "February 10"
       }
     ]
 }
