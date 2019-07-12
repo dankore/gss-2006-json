@@ -193,7 +193,8 @@
         "class": "SS3F",
         "state": "Abuja",
         "occupation": "Filmmaker/Customer Care Agent/Entrepreneur",
-        "dob": "September 6"
+        "dob": "September 6",
+        "photo": "https://dankore.github.io/gss-2006-json/images/2/collins.jpeg"
       },
       {
         "name": "Nkechi Iruloh",
@@ -490,7 +491,8 @@
         "class": "SS3D",
         "state": "Abuja",
         "occupation": "Business",
-        "dob": "September 18"
+        "dob": "September 18",
+      "photo": "https://dankore.github.io/gss-2006-json/images/2/yau.jpeg"
       },  
      {
         "name": "Nnadozie Ekwuribe",
