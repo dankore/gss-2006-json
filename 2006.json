@@ -176,7 +176,8 @@
         "class": "SS3D",
         "state": "Kubwa, Abuja",
         "occupation": "Public Servant",
-        "dob": "January 15"
+        "dob": "January 15",
+        "photo": "https://dankore.github.io/gss-2006-json/images/1/aisha.jpeg"
       },
       {
         "name": "Asogwa Chima Collins",
@@ -246,7 +247,9 @@
         "class": "SS3B",
         "state": "Karmo, Abuja",
         "occupation": "Online News Media",
-        "dob": "February 10"
+        "dob": "February 10",
+        "photo": "https://dankore.github.io/gss-2006-json/images/1/anthony.jpeg"
+      
       },
     {
         "name": "Adebayo Olorunpomi",
