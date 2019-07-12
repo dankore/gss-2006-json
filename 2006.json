@@ -80,7 +80,8 @@
         "class": "SS1A",
         "state": "Abuja & Kano",
         "occupation": "Admnin Purchase Officer",
-        "dob": "November 21"
+        "dob": "November 21",
+        "photo": "https://dankore.github.io/gss-2006-json/images/1/paul.jpeg"
       },
       {
         "name": "Emeh Sunday",
@@ -497,6 +498,14 @@
         "state": "Abuja",
         "occupation": "Graphic Artist | Web Designer| Digital Marketer",
         "dob": "February 10"
+      },
+    {
+        "name": "Kabiru Salihu",
+        "class": "SS3B",
+        "state": "Gwagwalada",
+        "occupation": "Business",
+        "dob": "",
+      "photo": "https://dankore.github.io/gss-2006-json/images/1/kabiru.jpeg"
       }
     ]
 }
