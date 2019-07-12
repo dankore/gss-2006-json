@@ -15,7 +15,7 @@
         "state": "Kubwa, Abuja",
         "occupation": "National Orientation Agency, Tax Consultant, Media personnel",
         "dob": "December 14",
-        "photo" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
+        "photo": "https://dankore.github.io/gss-2006-json/images/1/audu.jpeg"
       },
       {
         "name": "Kalu A Victoria",
@@ -43,7 +43,8 @@
         "class": "SS3A",
         "state": "Jabi, Abuja",
         "occupation": "Teacher",
-        "dob": "February 6"
+        "dob": "February 6",
+        "photo": "https://dankore.github.io/gss-2006-json/images/1/nasir.jpeg"
       },
       {
         "name": "Anade Ebere Modesta",
@@ -64,7 +65,8 @@
         "class": "SS3A",
         "state": "Nasarawa State",
         "occupation": "",
-        "dob": "September 15"
+        "dob": "September 15",
+        "photo": "https://dankore.github.io/gss-2006-json/images/1/soyombo.jpeg"
       },
       {
         "name": "Mosunmola Ore",
@@ -99,7 +101,8 @@
         "class": "SS3A",
         "state": "Kuje, Abuja",
         "occupation": "",
-        "dob": "May 1"
+        "dob": "May 1",
+        "photo": "https://dankore.github.io/gss-2006-json/images/1/jacob.jpeg"
       },
       {
         "name": "Emeka Ejike George",
@@ -127,28 +130,32 @@
         "class": " SS3B",
         "state": "Abuja",
         "occupation": "Software Developer/Hardware Engineer",
-        "dob": "November 27"
+        "dob": "November 27",
+          "photo": "https://dankore.github.io/gss-2006-json/images/1/kinsley.jpeg"
       },
       {
         "name": "Victor C. Ezenwa",
         "class": "SS3C",
         "state": "Abuja",
         "occupation": "Project Manager/Writer for Hire",
-        "dob": "February 19"
+        "dob": "February 19",
+        "photo": "https://dankore.github.io/gss-2006-json/images/1/victor.jpeg"
       },
       {
         "name": "Gimba Usman",
         "class": "SS3F",
         "state": "Abuja",
         "occupation": "Uber Driver",
-        "dob": "June 18"
+        "dob": "June 18",
+        "photo": "https://dankore.github.io/gss-2006-json/images/1/gimba.jpeg"
       },
       {
         "name": "Chinaza innocent Madu",
         "class": "SS3B",
         "state": "Abuja",
         "occupation": "Business man",
-        "dob": "October 22"
+        "dob": "October 22",
+        "photo": "https://dankore.github.io/gss-2006-json/images/1/chinaza.jpeg"
       },
       {
         "name": "Nwabuike Daniel",
@@ -169,7 +176,8 @@
         "class": "SS3D",
         "state": "Abuja",
         "occupation": "Freelance Video Editor",
-        "dob": "January 7"
+        "dob": "January 7",
+        "photo": "https://dankore.github.io/gss-2006-json/images/1/oliver.jpeg"
       },
       {
         "name": "Jibril Aisha",
@@ -198,14 +206,16 @@
         "class": "SS3B",
         "state": "Abuja/Kaduna",
         "occupation": "Self-employed",
-        "dob": "July 14"
+        "dob": "July 14",
+        "photo": "https://dankore.github.io/gss-2006-json/images/1/hassana.jpeg"
       },
       {
         "name": "Efe Uwejeyan",
         "class": "SS3E",
         "state": "Abuja",
         "occupation": "Taxi Driver/CCTV & PABX Installer",
-        "dob": "January 8"
+        "dob": "January 8",
+        "photo": "https://dankore.github.io/gss-2006-json/images/1/efe.jpeg"
       },
       {
         "name": "Adeoye John",
@@ -219,7 +229,8 @@
         "class": "SS3C",
         "state": "Abuja",
         "occupation": "Hair Stylist",
-        "dob": "March 30"
+        "dob": "March 30",
+        "photo": "https://dankore.github.io/gss-2006-json/images/1/blessing.jpeg"
       },
       {
         "name": "Aisha Usman",
@@ -233,14 +244,16 @@
         "class": "SS3C",
         "state": "Lagos",
         "occupation": "Customer Care Rep",
-        "dob": "April 29"
+        "dob": "April 29",
+        "photo": "https://dankore.github.io/gss-2006-json/images/1/nkoli.jpeg"
       },
     {
         "name": "Ayodele Lola",
         "class": "SS3F",
         "state": "Lagos",
         "occupation": "",
-        "dob": "September 19"
+        "dob": "September 19",
+      "photo": "https://dankore.github.io/gss-2006-json/images/1/lola.jpeg"
       },
     {
         "name": "Anthony Ugochukwu Okechukwu",
@@ -270,7 +283,8 @@
         "class": "SS3D",
         "state": "Abuja",
         "occupation": "Surveyor and Valuer",
-        "dob": "February 26"
+        "dob": "February 26",
+      "photo": "https://dankore.github.io/gss-2006-json/images/1/maureen.jpeg"
       },
     {
         "name": "Eke Justina",
@@ -284,49 +298,56 @@
         "class": "SS3E",
         "state": "Lagos",
         "occupation": "Customer Service Rep @ Tranex Nationwide Express PLC",
-        "dob": "June 8"
+        "dob": "June 8",
+       "photo": "https://dankore.github.io/gss-2006-json/images/1/patience.jpeg"
       },
     {
         "name": "Christal Kyuka (Toge)",
         "class": "SS3A",
         "state": "Lugbe, Abuja",
         "occupation": "Reseacher",
-        "dob": "September 13"
+        "dob": "September 13",
+      "photo": "https://dankore.github.io/gss-2006-json/images/1/christal.jpeg"
       },
     {
         "name": "Nnamdi Okonkwo",
         "class": "SS3A",
         "state": "Abuja",
         "occupation": "Public Health Professional/Freelancer",
-        "dob": "October 5"
+        "dob": "October 5",
+      "photo": "https://dankore.github.io/gss-2006-json/images/1/nnamdi.jpeg"
       },
     {
         "name": "Solomon Nnadozie",
         "class": "SS3A",
         "state": "Rivers",
         "occupation": "Engineering",
-        "dob": "June 7"
+        "dob": "June 7",
+      "photo": "https://dankore.github.io/gss-2006-json/images/1/solomon.jpeg"
       },
     {
         "name": "Augustina Nwaokike",
         "class": "SS3F",
         "state": "Abuja",
         "occupation": "Teacher",
-        "dob": "December 2"
+        "dob": "December 2",
+      "photo": "https://dankore.github.io/gss-2006-json/images/1/augustina.jpeg"
       },
     {
         "name": "Tolulope Fajuyi",
         "class": "SS3F",
         "state": "Lagos",
         "occupation": "Engineer",
-        "dob": "July 22"
+        "dob": "July 22",
+      "photo": "https://dankore.github.io/gss-2006-json/images/1/fajuyi.jpeg"
       },
     {
         "name": "Uka Ernest",
         "class": "SS3E",
         "state": "Abuja",
         "occupation": "",
-        "dob": "June 30"
+        "dob": "June 30",
+      "photo": "https://dankore.github.io/gss-2006-json/images/1/Ernest.jpeg"
       },
     {
         "name": "Caleb Yakubu",
@@ -403,14 +424,16 @@
         "class": "SS3B",
         "state": "Abuja",
         "occupation": "Environmental Microbiologist/Student",
-        "dob": "March 31"
+        "dob": "March 31",
+      "photo": "https://dankore.github.io/gss-2006-json/images/1/tunde.jpeg"
       },
     {
         "name": "Mercy Chukwu",
         "class": "SS3B",
         "state": "Abuja",
         "occupation": "Secretary @ Prime Care Hospital/ Actress",
-        "dob": "September 17"
+        "dob": "September 17",
+      "photo": "https://dankore.github.io/gss-2006-json/images/1/mercy.jpeg"
       },
     {
         "name": "Esther Abiodun",
