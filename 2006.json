@@ -515,6 +515,14 @@
         "occupation": "Business",
         "dob": "",
       "photo": "https://dankore.github.io/gss-2006-json/images/1/kabir.jpeg"
+      },
+    {
+        "name": "Favour Onyemaechi Ossai",
+        "class": "SS3C",
+        "state": "Abuja",
+        "occupation": "Self-employed",
+        "dob": "",
+      "photo": ""
       }
     ]
 }
