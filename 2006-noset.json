@@ -20,7 +20,8 @@
         "class": "SS3A",
         "state": "Abuja",
         "occupation": "",
-        "dob": "November 27"
+        "dob": "November 27",
+        "photo": "https://dankore.github.io/gss-2006-json/images/2/victoria.jpeg"
       },
       {
         "name": "Samuel Sunday",
@@ -34,7 +35,8 @@
         "class": "SS3E",
         "state": "Abuja",
         "occupation": "Estate Management Agent, Emcee, Writer & Business man",
-        "dob": "September 21"
+        "dob": "September 21",
+        "photo": "https://dankore.github.io/gss-2006-json/images/2/moses.jpeg"
       },
       {
         "name": "Muhammad Nasir",
@@ -115,7 +117,8 @@
         "class": "SS1E",
         "state": "Abuja",
         "occupation": "Business Man",
-        "dob": "March 3"
+        "dob": "March 3",
+        "photo": "https://dankore.github.io/gss-2006-json/images/2/napun.jpeg"
       },
       {
         "name": "Ejim Thompson Uyimleshi",
@@ -191,7 +194,8 @@
         "class": "SS3F",
         "state": "Abuja",
         "occupation": "Filmmaker/Customer Care Agent/Entrepreneur",
-        "dob": "September 6"
+        "dob": "September 6",
+        "photo": "https://dankore.github.io/gss-2006-json/images/2/collins.jpeg"
       },
       {
         "name": "Nkechi Iruloh",
@@ -236,7 +240,8 @@
         "class": "SS3D",
         "state": "Abuja",
         "occupation": "Nile University Staff",
-        "dob": "October 21"
+        "dob": "October 21",
+        "photo": "https://dankore.github.io/gss-2006-json/images/2/aisha-jibril.jpeg"
       },
       {
         "name": "Nkoli Nnoni Nwando",
@@ -290,7 +295,8 @@
         "class": "SS3E",
         "state": "Abuja",
         "occupation": "",
-        "dob": "February 2"
+        "dob": "February 2",
+      "photo": "https://dankore.github.io/gss-2006-json/images/2/tina.jpeg"
       },
     {
         "name": "Okolo Patience",
@@ -353,7 +359,8 @@
         "class": "SS3C",
         "state": "Kaduna",
         "occupation": "Student",
-        "dob": "April 12"
+        "dob": "April 12",
+      "photo": "https://dankore.github.io/gss-2006-json/images/2/caleb.jpeg"
       },
     {
         "name": "Emeka Okoronkwo",
@@ -474,7 +481,8 @@
         "class": "SS3F & E",
         "state": "Life Camp, Abuja",
         "occupation": "Unemployed",
-        "dob": "August 17"
+        "dob": "August 17",
+        "photo": "https://dankore.github.io/gss-2006-json/images/2/rufai.jpeg"
       },    
     {
         "name": "Mercy Ochigbo",
@@ -488,14 +496,16 @@
         "class": "SS3D",
         "state": "Abuja",
         "occupation": "Business",
-        "dob": "September 18"
+        "dob": "September 18",
+      "photo": "https://dankore.github.io/gss-2006-json/images/2/yau.jpeg"
       },  
      {
         "name": "Nnadozie Ekwuribe",
         "class": "SS3A",
         "state": "Abuja",
         "occupation": "Graphic Artist | Web Designer| Digital Marketer",
-        "dob": "February 10"
+        "dob": "February 10",
+       "photo": "https://dankore.github.io/gss-2006-json/images/2/nnadozie.jpeg"
       },
     {
         "name": "Kabiru Salihu",
@@ -504,5 +514,13 @@
         "occupation": "Business",
         "dob": "",
       "photo": "https://dankore.github.io/gss-2006-json/images/1/kabir.jpeg"
+      },
+    {
+        "name": "Favour Onyemaechi Ossai",
+        "class": "SS3C",
+        "state": "Abuja",
+        "occupation": "Self-employed",
+        "dob": "",
+        "photo": "https://dankore.github.io/gss-2006-json/images/2/favour.jpeg"
       }
-    ]
+]
