@@ -7,7 +7,7 @@
         "state": "Iowa, USA",
         "occupation": "Chemist, Founder & CEO of https://homeawayfromhome.online",
         "dob": "July 2",
-        "photo" : "https://dankore.github.io/gss-2006-json/images/adamuMD.JPG"
+        "photo": "https://dankore.github.io/gss-2006-json/images/2/adamu.jpeg"
       },
       {
         "name": "Audu Nurudeen",
@@ -30,7 +30,8 @@
         "class": "SS1D",
         "state": "Abuja",
         "occupation": "",
-        "dob": ""
+        "dob": "",
+        "photo": "https://dankore.github.io/gss-2006-json/images/2/samuel.jpeg"
       },
       {
         "name": "Moses Okorogbudje",
@@ -53,7 +54,8 @@
         "class": "SS3D",
         "state": "Benue State",
         "occupation": "Corper, NYSC",
-        "dob": "December 4"
+        "dob": "December 4",
+        "photo": "https://dankore.github.io/gss-2006-json/images/2/modesta.jpeg"
       },
       {
         "name": "Etim Nsikan",
