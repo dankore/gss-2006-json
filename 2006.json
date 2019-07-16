@@ -78,7 +78,8 @@
         "class": "SS3B",
         "state": "Abuja",
         "occupation": "",
-        "dob": "November 17"
+        "dob": "November 17",
+        "photo": "https://dankore.github.io/gss-2006-json/images/2/ore.jpeg"
       },
       {
         "name": "Anih David Chima",
@@ -101,7 +102,8 @@
         "class": "SS3C",
         "state": "Abuja",
         "occupation": "Civil Servant",
-        "dob": "April 8"
+        "dob": "April 8",
+        "photo": "https://dankore.github.io/gss-2006-json/images/2/kenneth.jpeg"
       },
       {
         "name": "Olatoye Jacob",
@@ -236,7 +238,8 @@
         "class": "SS3E",
         "state": "Abuja",
         "occupation": "",
-        "dob": "May 6"
+        "dob": "May 6",
+        "photo": "https://dankore.github.io/gss-2006-json/images/2/adeoye.jpeg"
       },
       {
         "name": "Blessing Dimgba",
@@ -410,7 +413,8 @@
         "class": "SS3A",
         "state": "Abuja",
         "occupation": "",
-        "dob": "November 8"
+        "dob": "November 8",
+      "photo": "https://dankore.github.io/gss-2006-json/images/2/matthew.jpeg"
       },
     {
         "name": "Williams David",
@@ -473,28 +477,32 @@
         "class": "SS1A",
         "state": "Karmo, Abuja",
         "occupation": "Aquaculture practitioner, Politician and Security",
-        "dob": ""
+        "dob": "",
+      "photo": "https://dankore.github.io/gss-2006-json/images/2/haruna.jpeg"
       },
     {
         "name": "Osakwe Norbert",
         "class": "SS3C",
         "state": "Yenagoa, Bayelsa",
         "occupation": "Banker",
-        "dob": "June 13"
+        "dob": "June 13",
+      "photo": "https://dankore.github.io/gss-2006-json/images/2/osakwe.jpeg"
       },
       {
         "name": "Joy Use",
         "class": "SS3F",
         "state": "Abuja",
         "occupation": "Civil Servant",
-        "dob": "June 15"
+        "dob": "June 15",
+        "photo": "https://dankore.github.io/gss-2006-json/images/2/joy.jpeg"
       },
     {
         "name": "Onaji Jane",
         "class": "SS3C",
         "state": "",
         "occupation": "Self Employed",
-        "dob": "June 15"
+        "dob": "June 15",
+      "photo": "https://dankore.github.io/gss-2006-json/images/2/onaji.jpeg"
       },
     {
         "name": "Rufai Jibrin Ahmed",
@@ -509,7 +517,8 @@
         "class": "SS3F & E",
         "state": "Abuja",
         "occupation": "Monitoring and Evaluation",
-        "dob": "May 6"
+        "dob": "May 6",
+      "photo": "https://dankore.github.io/gss-2006-json/images/2/mercyo.jpeg"
       },  
     {
         "name": "Yau Hassan",
