@@ -542,6 +542,14 @@
         "occupation": "Self-employed",
         "dob": "",
         "photo": "https://dankore.github.io/gss-2006-json/images/2/favour.jpeg"
+      },
+    {
+        "name": "Frank Udah",
+        "class": "SS3A",
+        "state": "Abuja",
+        "occupation": "Farmer/Businessman",
+        "dob": "August 25",
+        "photo": "https://dankore.github.io/gss-2006-json/images/2/frank.jpeg"
       }
     ]
 }
