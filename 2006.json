@@ -62,7 +62,8 @@
         "class": "SS3B",
         "state": "Suleja, Niger State",
         "occupation": "Student",
-        "dob": "February 27"
+        "dob": "February 27",
+        "photo": "https://dankore.github.io/gss-2006-json/images/2/nsikan.jpeg"
       },
       {
         "name": "Soyombo Olusegun Martins",
@@ -92,7 +93,8 @@
         "class": "SS3E",
         "state": "Lagos",
         "occupation": "Footballer",
-        "dob": "February 25"
+        "dob": "February 25",
+        "photo": "https://dankore.github.io/gss-2006-json/images/2/emeh.jpeg"
       },
       {
         "name": "Ohiri Kenneth Ekene",
@@ -114,7 +116,8 @@
         "class": "SS3B",
         "state": "Yobe",
         "occupation": "Humanitarian Work",
-        "dob": "July 20"
+        "dob": "July 20",
+        "photo": "https://dankore.github.io/gss-2006-json/images/2/emekat.jpeg"
       },
       {
         "name": "Napun Maku Bello",
@@ -129,7 +132,8 @@
         "class": "SS3B",
         "state": "Kaduna",
         "occupation": "Architect/Interior Designer",
-        "dob": "June 26"
+        "dob": "June 26",
+        "photo": "https://dankore.github.io/gss-2006-json/images/2/thomson.jpeg"
       },
         {
         "name": "Kingsley Emmanuel (Hunter Raymond)",
@@ -168,14 +172,16 @@
         "class": "SS3E",
         "state": "Abuja",
         "occupation": "Hustler",
-        "dob": "December 6"
+        "dob": "December 6",
+        "photo": "https://dankore.github.io/gss-2006-json/images/2/daniel.jpeg"
       },
       {
         "name": "Sophia Ruby Umar",
         "class": "SS3F",
         "state": "Abuja",
         "occupation": "Caterer",
-        "dob": "July 24"
+        "dob": "July 24",
+        "photo": "https://dankore.github.io/gss-2006-json/images/2/sophia.jpeg"
       },
       {
         "name": "Oliver Anyanwu",
@@ -206,7 +212,8 @@
         "class": "SS3B",
         "state": "Abuja",
         "occupation": "Banking",
-        "dob": "August 29"
+        "dob": "August 29",
+        "photo": "https://dankore.github.io/gss-2006-json/images/2/nkechi.jpeg"
       },
       {
         "name": "Hassana Garba",
@@ -277,14 +284,16 @@
         "class": "SS3C",
         "state": "Aco Estate, Abuja",
         "occupation": "Administrator, Binary Option Trader",
-        "dob": "October 10"
+        "dob": "October 10",
+      "photo": "https://dankore.github.io/gss-2006-json/images/2/adebayo.jpeg"
       },
     {
         "name": "Hauwa Lawal",
         "class": "SS3C",
         "state": "Niger",
         "occupation": "Business Owner",
-        "dob": "April 8"
+        "dob": "April 8",
+      "photo": "https://dankore.github.io/gss-2006-json/images/2/hauwa.jpeg"
       },
     {
         "name": "Nwaoha Maureen",
@@ -378,14 +387,16 @@
         "class": "SS3A",
         "state": "Abuja",
         "occupation": "Arts Designer/Brand Strategist",
-        "dob": "May 27"
+        "dob": "May 27",
+      "photo": "https://dankore.github.io/gss-2006-json/images/2/hope.jpeg"
       },
     {
         "name": "Ali Ismaila Gbatigbi",
         "class": "SS3A",
         "state": "Abuja",
         "occupation": "Farmer/Agric Engineer",
-        "dob": "June 28"
+        "dob": "June 28",
+      "photo": "https://dankore.github.io/gss-2006-json/images/2/ismaila.jpeg"
       },
     {
         "name": "Chima David (BBC)",
@@ -406,28 +417,32 @@
         "class": "SS3C",
         "state": "Portharcourt",
         "occupation": "Business",
-        "dob": "January 10"
+        "dob": "January 10",
+      "photo": "https://dankore.github.io/gss-2006-json/images/2/david.jpeg"
       },
     {
         "name": "Kamojor Onwenwuzor",
         "class": "SS3C",
         "state": "Abuja",
         "occupation": "",
-        "dob": "May 6"
+        "dob": "May 6",
+      "photo": "https://dankore.github.io/gss-2006-json/images/2/kamojor.jpeg"
       },
     {
         "name": "Chukwu Christian",
         "class": "SS3A",
         "state": "Abuja",
         "occupation": "Cement Merchant",
-        "dob": "December 21"
+        "dob": "December 21",
+      "photo": "https://dankore.github.io/gss-2006-json/images/2/chukwuc.jpeg"
       },
       {
         "name": "Chukwuemeka Christian Ejike",
         "class": "SS3A",
         "state": "Abuja/Calabar",
         "occupation": "",
-        "dob": "September 7"
+        "dob": "September 7",
+        "photo": "https://dankore.github.io/gss-2006-json/images/2/chukwuemeka.jpeg"
       },
     {
         "name": "Ayotebi Babatunde",
@@ -450,7 +465,8 @@
         "class": "SS3E",
         "state": "Kaduna",
         "occupation": "",
-        "dob": "December 10"
+        "dob": "December 10",
+      "photo": "https://dankore.github.io/gss-2006-json/images/2/esther.jpeg"
       },
     {
         "name": "Haruna Waziri Muhammad",
