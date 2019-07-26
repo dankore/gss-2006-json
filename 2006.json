@@ -542,8 +542,8 @@
         "name": "Kabiru Salihu",
         "class": "SS3B",
         "state": "Gwagwalada",
-        "occupation": "Business",
-        "dob": "",
+        "occupation": "Businessman: Communication, Phones & Accessories, Recharge Cards, Agent Banking",
+        "dob": "June 26",
       "photo": "https://dankore.github.io/gss-2006-json/images/1/kabir.jpeg"
       },
     {
@@ -561,6 +561,46 @@
         "occupation": "Farmer/Businessman",
         "dob": "August 25",
         "photo": "https://dankore.github.io/gss-2006-json/images/2/frank.jpeg"
+      },
+    {
+        "name": "Daniel Ita frank",
+        "class": "SS3B",
+        "state": "Abuja",
+        "occupation": "Geographer/Business",
+        "dob": "December 26",
+        "photo": "https://dankore.github.io/gss-2006-json/images/4/ita.JPG"
+      },
+    {
+        "name": "Muhammad Auwal Haruna",
+        "class": "SS3A",
+        "state": "Abuja",
+        "occupation": "IT Consultant, Graphic Designer/Printer",
+        "dob": "April 16",
+        "photo": "https://dankore.github.io/gss-2006-json/images/4/auwal.JPG"
+      },
+    {
+        "name": "Richard Delly Anthony",
+        "class": "SS3A",
+        "state": "Abuja",
+        "occupation": "Producer/Sound Engineer",
+        "dob": "May 4",
+        "photo": "https://dankore.github.io/gss-2006-json/images/4/delly.JPG"
+      },
+    {
+        "name": "Gift Ude",
+        "class": "SS3A",
+        "state": "Abuja",
+        "occupation": "Business",
+        "dob": "September 24",
+        "photo": "https://dankore.github.io/gss-2006-json/images/4/gift.JPG"
+      },
+    {
+        "name": "Vessel John Oni",
+        "class": "SS3E",
+        "state": "Kaduna",
+        "occupation": "Clergy & Business",
+        "dob": "June 13",
+        "photo": "https://dankore.github.io/gss-2006-json/images/4/john.JPG"
       }
     ]
 }
