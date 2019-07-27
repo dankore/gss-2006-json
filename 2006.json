@@ -609,6 +609,14 @@
         "occupation": "Engineer",
         "dob": "May 5",
         "photo": "https://dankore.github.io/gss-2006-json/images/4/henry.JPG"
+      },
+    {
+        "name": "Isah",
+        "class": "SS3D",
+        "state": "FHA Lugbe, Abuja",
+        "occupation": "Researcher and Data Analyst",
+        "dob": "June 13",
+        "photo": "https://dankore.github.io/gss-2006-json/images/4/isah.JPG"
       }
     ]
 }
